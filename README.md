@@ -6,6 +6,9 @@ idk if i wanna make this public or private
 # what is this
 zram set up script for arch
 
+# how to use
+sudo ./setup-zram.sh (you might have to chmod +x it)
+
 # did you use opencode
 yes because im a dumbass xD
 
